@@ -73,6 +73,18 @@ table {
     filter: blur(1px);}
     ul.navbar-horizontal {
         list-style-type: none;
-        margin: 0;
-        padding: 0;
+       
+    }
+    ul.navbar-horizontal li {
+        float:left;
+        background: linear-gradient(110deg, rgb(129, 136, 230) 60%,rgb(68, 212, 55) 60%);
+    }
+    ul.navbar-horizontal a {
+        display:block;
+        padding:20px;
+        color: rgb(72,21, 103);
+    }
+    ul.navbar-horizontal a:hover {
+        background-color:rgb(24, 160, 209);
+        color:rgb(180, 40, 120);
     }
