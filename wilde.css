@@ -1,0 +1,26 @@
+.speech{
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    color:black;
+}
+.stage-direction{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: cyan;
+}
+.name{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+.stage-direction:hover{
+    background-color: lightslategrey;
+    color:rgb(97,65, 6);
+}
+.MRSMARCHMONT{
+    color:red;
+}
+.LADYBASILDON{   
+    color:yellow;
+}
